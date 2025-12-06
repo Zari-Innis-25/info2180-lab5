@@ -23,6 +23,8 @@ header{
     color: #fff;
     text-align: center;
     padding: 41px 21px ;
+    border-color: #142d1ff3;
+    border: 30px;
 }
 h1{
     font-size: 35px;
@@ -42,4 +44,6 @@ main{
 button{
     background-color: #0c564b;
     color: #fff;
+    padding: 10px 20px;
+    size: 20cm;
 }
